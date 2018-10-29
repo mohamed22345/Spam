@@ -27,7 +27,7 @@ client.on('ready', async() => {
 var server = "506394514685034496"; // ايدي السررفر
 var channel = "506394514685034498";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('#rep <@314135031029170197>')
+    client.guilds.get(server).channels.get(channel).send('#rep <@431535348867268608>')
     },8.64e+7);
 })
 
